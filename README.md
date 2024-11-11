@@ -1,1 +1,2 @@
-# wproject_diffusers
+# run script
+python .\script.py
